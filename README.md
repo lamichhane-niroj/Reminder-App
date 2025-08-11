@@ -1,21 +1,24 @@
-<<<<<<< HEAD
-# todo_list
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Reminder-App
-A Flutter-based reminder app that lets you easily create and manage reminders with local notifications. Simple, lightweight, and designed to help you stay organized and on schedule.
->>>>>>> 42601c74895a6978ead65b22c0f23975045bf4eb
+A Flutter-based reminder app designed to help you organize your tasks and never miss important events. The app supports creating, editing, and deleting reminders with local notifications for timely alerts.
+
+Features
+Create reminders with title, description, and date/time
+
+Edit and delete existing reminders
+
+Set one-time or recurring notifications
+
+View all reminders in a clean, easy-to-navigate list
+
+Local notifications support for timely alerts even when the app is closed
+
+Responsive UI optimized for multiple screen sizes
+
+Screenshots
+![Home Screen](https://github.com/lamichhane-niroj/Reminder-App/blob/main/Screenshot_1754922815.png)
+![Sliding Menu](https://github.com/lamichhane-niroj/Reminder-App/blob/main/Screenshot_1754922828.png?raw=true)
+![Settings Screen](https://github.com/lamichhane-niroj/Reminder-App/blob/main/Screenshot_1754922848.png?raw=true)
+![Search Screen](https://github.com/lamichhane-niroj/Reminder-App/blob/main/Screenshot_1754922866.png?raw=true)
+![Voice To Text Google](https://github.com/lamichhane-niroj/Reminder-App/blob/main/Screenshot_1754922889.png?raw=true)
+
+
